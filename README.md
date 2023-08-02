@@ -2,11 +2,11 @@
 
 In this project we crawl lots of data from transfermarket.com to build data base for implementing several Statistics and Ml models to analysis the whole data 
 
-### this project includs four main phases : 
-    #### 1- Crawl and collect the data
-    #### 2- Design Data Base
-    #### 3- Statics Analysis
-    #### 4- Predict and evaluated with ML tools
+### This project includs four main phases : 
+     1- Crawl and collect the data
+     2- Design Data Base
+     3- Statics Analysis
+     4- Predict and evaluated with ML tools
 
 
 
