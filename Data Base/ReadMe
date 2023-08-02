@@ -1,0 +1,10 @@
+there is several way to execute this database :
+
+1-you can just Run Sql Script for each of tables exists in main directory 
+
+2-just Run Sql Script for the file exist in 'All' directory then the whole database generated (Recomended But may take a 
+time )
+
+3- you can use .ibd type files exist for each table in direcotry:  project1/project1/
+
+4-unzip the DataBase.zip file then change the first block of code in DataBase.ipynb to set your default mySql config then run all codes 
