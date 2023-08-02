@@ -1,0 +1,22 @@
+try to crawl all data related to each team based on links which was crawled at teamLinksCrawler
+you can see the schema of two tables such as tables.jpj
+
+
+
+
+the two main tables are totalPlayers.parquet & totalTeamsDetail.parquet
+
+
+
+!!!______!!! totalTeamsDetail consist of duplicate and  it's not correct should be ignore 
+
+totalPlayers.parquet columns = ['legueName', 'teamName', 'season', 'teamId', 'playersId', 'shirtNumber',
+       'playersName', 'position', 'bornDate', 'age', 'nationality',
+       'currentClub', 'height', 'foot', 'join', 'signedFrom', 'contract',
+       'marketValues']
+
+
+totalTeamDetail.parquet columns = ['legueName', 'teamName', 'season', 'teamId', 'squad', 'averageAge',
+       'foreigners', 'foreignersPercent', 'nationalPlayer', 'teamStadium',
+       'stadiumCapacity', 'currentTransferRecord', 'teamAwards',
+       'marketValue']
