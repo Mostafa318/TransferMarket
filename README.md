@@ -79,10 +79,10 @@ clean the whole collected data and prepare them to build data base using SqlAlch
 
 
 ## Machine Learning 
- ### Predict players market value
+ ### 1- Predict players market value
      1. The goal of this problem is to create a machine learning model that can predict players' market value based on characteristics and recent transfer data. Market value represents 
         the estimated value of a player in the transfer market. By predicting market value, teams, agents and other stakeholders can make informed decisions during player transfers.
- ### Players position classification
+ ### 2- Players position classification
      1. In this problem, the goal is to develop a classification model that can accurately classify players into different positions (e.g., forward, midfielder, defender) based on their         characteristics and playing history. Classification of players into positions can help with team formation, player recruitment and tactical decisions in football.
- ### Similarity clustering of players
+ ### 3- Similarity clustering of players
      1. The purpose of player similarity clustering is to group players based on their characteristics and playing styles to identify similar characteristics among them. This can help           with player scouting, team formation and tactical decision making. By grouping players with similar attributes, teams can identify potential transfer targets or find suitable            replacements for specific situations.
